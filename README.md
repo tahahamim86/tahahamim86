@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.2LtMKSpX32_trZGhV7tIywHaLH?rs=1&pid=ImgDetMain" alt="Carthaginian Helmet" width="100%" />
+  <img src="https://th.bing.com/th/id/OIP.2LtMKSpX32_trZGhV7tIywHaLH?rs=1&pid=ImgDetMain" alt="Carthaginian Helmet" width="20%" />
 </p>
 
 
