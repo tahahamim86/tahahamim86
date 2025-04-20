@@ -1,5 +1,7 @@
 <!-- Profile Banner -->
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=300&lines=%F0%9F%93%8D+Carthage%2C+Tunis" alt="Carthage Tunis Animation" />
+</p>
 <h1 align="center">Hi 👋, I'm Taha Hamim Boughanmi</h1>
 
 <p align="center">
