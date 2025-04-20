@@ -1,5 +1,4 @@
 <!-- Profile Banner -->
-<img src="https://i.imgur.com/tQ1O3VU.png" alt="Taha Hamim Boughanmi Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Taha Hamim Boughanmi</h1>
 
