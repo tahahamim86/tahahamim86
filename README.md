@@ -2,6 +2,11 @@
   <img src="https://th.bing.com/th/id/OIP.2LtMKSpX32_trZGhV7tIywHaLH?rs=1&pid=ImgDetMain" alt="Carthaginian Helmet" width="20%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%93%8D+Carthage%2C+Tunis" alt="Carthage Tunis Animation" />
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Taha Hamim Boughanmi</h1>
 
