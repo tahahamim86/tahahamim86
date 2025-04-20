@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%93%8D+Carthage%2C+Tunis" alt="Carthage Tunisia Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=%D9%82%D8%B1%D8%B7%D8%A7%D8%AC%D8%8C+%D8%AA%D9%88%D9%86%D8%B3" alt="Carthage Tunis Animation in Arabic" />
 </p>
-
 
 
 <h1 align="center">Hi 👋, I'm Taha Hamim Boughanmi</h1>
